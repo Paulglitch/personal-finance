@@ -1,5 +1,3 @@
-#let's code a personal finance tracker with data visualization
-
 import matplotlib.pyplot as plt
 import numpy as np  #importing numpy library
 
